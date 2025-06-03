@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Zayed Ramadan
+## 👋 Hi, I’m Zayed Ramadan Rahmat
 
 I’m a fresh graduate in Computer Science with a specialization in Artificial Intelligence, currently based in Kuala Lumpur, Malaysia. I enjoy building practical systems using AI, automation, and full-stack development, and I’m always looking to improve how technology solves real-world problems.
 
