@@ -1,26 +1,28 @@
-## 👋 Hi, I’m Zayed Ramadan Rahmat
+## 👋 Hi, I'm Zayed Ramadan Rahmat
 
-I’m a Computer Science graduate specializing in Artificial Intelligence, based in Kuala Lumpur, Malaysia. I enjoy building practical systems using AI, automation, and full-stack development to solve real-world problems. I’m always exploring how technology can be applied efficiently and meaningfully.
+Computer Science graduate (AI specialism) based in Tangerang, Indonesia. Currently an AI Engineer Intern at Nusa Putra University while pursuing a Master's in Cyber Security. I build practical AI and full-stack systems — computer vision, NLP, RAG pipelines, and data tooling.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayedrmdn&show_icons=true&theme=gruvbox)
+### 🧩 Recent Work
+- **FactuAI** — NLP system for news credibility (FYP, React + Flask + fine-tuned BERT/T5)
+- **AI-RAG** — Retrieval-augmented generation experiments
+- **Panic Attack Prediction** — ML classifier on clinical features
+- **Handwriting Feature Extraction** — MATLAB GUI for image-processing-based analysis
+- **Mindhive Chatbot** — Python chatbot assessment build
+- **Portfolio** — [zayed-website](https://github.com/zayedrmdn/zayed-website)
 
-### 🧩 Featured Projects
-- **FactuAI** – AI-driven fact-checking system for news, images, and videos, integrating NLP and multimodal analysis *(graded A+ / 4.0 in Final Year Project)*  
-- **Distance Measurement System** – Real-time obstacle detection for a mobile rover using Python and OpenCV  
-- **Langify** – Flutter-based language learning app with Firebase Realtime Database  
-- **AI Chatbot (Flower Care Guide)** – Botpress chatbot providing automated plant care guidance  
-- **Trivia Quiz Game (C++)** – Interactive quiz implementing data structures and sorting algorithms  
+Earlier coursework includes a Flutter language-learning app (Langify), a Botpress plant-care chatbot, a C++ trivia game, and a Java food-ordering system.
 
-### 🏆 Key Achievements
-- Achieved **93% model accuracy** for an agricultural robot vision system during AI internship at Meraque Services  
-- **A+ (4.0)** grade for Final Year Project: FactuAI – a fact-checking AI system for text, images, and videos  
-- **Top 10 Finalist** – AWS DeepRacer Challenge (Reinforcement Learning)  
-- **Top 6 Finalist** – MumTec Hackathon (AI-powered blockchain firmware prototype)  
+### 🛠 Tools
+Python, TypeScript, Java, C/C++, Dart · PyTorch, TensorFlow, LangChain · Next.js, React, Flutter · PostgreSQL, Supabase, Firebase · AWS, Vercel, n8n
 
-### 💼 I’m currently looking for
-Full-time opportunities in **Software Development** or **AI Engineering**, where I can contribute to meaningful projects and continue growing technically.
+### 🏆 Highlights
+- AI Engineer Intern @ Meraque Services — vision system for agricultural rover (2024)
+- Top 10, AWS DeepRacer Challenge · Top 6, MumTec Hackathon (Monash, 2024)
+- Speaker, APU AI Club — "ChatGPT Prompts: Effective Use of AI Tools" (70+ attendees)
 
-### 📫 You can reach me at
-- Email: zayedrmdn@gmail.com  
-- LinkedIn: [linkedin.com/in/zayedrmdn](https://www.linkedin.com/in/zayedrmdn)  
-- GitHub: [github.com/zayedrmdn](https://github.com/zayedrmdn)
+### 💼 Availability
+Open to opportunities in AI engineering or software development — full-time, hybrid, contract, or fully remote.
+
+### 📫 Reach
+- ✉️ zayedrmdn@gmail.com
+- 💼 [linkedin.com/in/zayedrmdn](https://www.linkedin.com/in/zayedrmdn)
